@@ -2,4 +2,5 @@
   <Project Path="src\RentCarServer.Application\RentCarServer.Application.csproj" Type="Classic C#" />
   <Project Path="src\RentCarServer.Domain\RentCarServer.Domain.csproj" Type="Classic C#" />
   <Project Path="src\RentCarServer.Infrastructure\RentCarServer.Infrastructure.csproj" Type="Classic C#" />
+  <Project Path="src\RentCarServer.WebAPI\RentCarServer.WebAPI.csproj" Type="Classic C#" />
 </Solution>
